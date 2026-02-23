@@ -11,7 +11,7 @@ def list_generator():
 def media():
     return sum(list_num) / len(list_num)
 
-def show_closest():
+def search_closest():
     avg = media()
     closest = list_num[0]
     
@@ -24,6 +24,13 @@ def show_closest():
             
     return closest
 
+def show_closests():
+    closest = search_closest()
+    for i in range(len(list_num)):
+        if abs(list_num[i] - closest) <= 3:
+            print(list_num[i])
+
 list_generator()
-print("AVERAGE:", media())
-print("CLOSEST:", show_closest())
+print("MEDIA:",media())
+print("CLOSESTS:")
+show_closests()

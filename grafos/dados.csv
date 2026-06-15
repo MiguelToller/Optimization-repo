@@ -1,0 +1,30 @@
+origem,destino,relacao
+Rickard Stark,Ned Stark,Filho
+Rickard Stark,Brandon Stark,Filho
+Rickard Stark,Lyanna Stark,Filho
+Ned Stark,Robb Stark,Filho
+Ned Stark,Sansa Stark,Filho
+Ned Stark,Arya Stark,Filho
+Ned Stark,Bran Stark,Filho
+Ned Stark,Rickon Stark,Filho
+Catelyn Tully,Robb Stark,Filho
+Catelyn Tully,Sansa Stark,Filho
+Catelyn Tully,Arya Stark,Filho
+Catelyn Tully,Bran Stark,Filho
+Catelyn Tully,Rickon Stark,Filho
+Rhaegar Targaryen,Jon Snow,Filho
+Lyanna Stark,Jon Snow,Filho
+Tywin Lannister,Cersei Lannister,Filho
+Tywin Lannister,Jaime Lannister,Filho
+Tywin Lannister,Tyrion Lannister,Filho
+Cersei Lannister,Joffrey Baratheon,Filho
+Cersei Lannister,Myrcella Baratheon,Filho
+Cersei Lannister,Tommen Baratheon,Filho
+Jaime Lannister,Joffrey Baratheon,Filho
+Jaime Lannister,Myrcella Baratheon,Filho
+Jaime Lannister,Tommen Baratheon,Filho
+Robert Baratheon,Joffrey Baratheon,Pai Legado
+Aerys II Targaryen,Rhaegar Targaryen,Filho
+Aerys II Targaryen,Viserys Targaryen,Filho
+Aerys II Targaryen,Daenerys Targaryen,Filho
+Drogo,Daenerys Targaryen,Casamento
